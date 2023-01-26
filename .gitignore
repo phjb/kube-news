@@ -104,3 +104,9 @@ node_modules/
 # .tern-port
 
 *.Identifier
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
